@@ -1,4 +1,4 @@
-# FaceMaker
+# FaceFaker
 Generating faces with a DCGAN using PyTorch, Amazon SageMaker, and Amazon S3.
 
 
